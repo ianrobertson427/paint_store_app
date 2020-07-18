@@ -1,0 +1,7 @@
+{
+
+  sheen: @paint.sheen,
+  quality: @paint.quality,
+  brand: @paint.brand,
+
+}
